@@ -17,8 +17,3 @@ body{
   color:#fff;
   background: linear-gradient(to right, rgb(83,105,118),rgb(41,46,73));  
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
